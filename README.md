@@ -23,7 +23,7 @@
 
 🚀 Striving to improve a little every day, aspiring to be better than yesterday.
 
-:student: I’m currently learning web development using `react.js` , `Liveware`...<br>
+🎓 I’m currently learning web development using `react.js` , `Liveware`...<br>
 
 
 <br>
