@@ -11,15 +11,20 @@
 <br> 
 <br>
 
-<h2><picture> <img src = "https://github.com/MDShariarHossainSun/MDShariarHossainSun/blob/main/images/me.gif?raw=true" width = 50px>  </picture> About me</h2>
+<h2><picture>   </picture> About me</h2>
 <picture> <img align="right" src="https://github.com/MDShariarHossainSun/MDShariarHossainSun/blob/main/images/computer.gif?raw=true" width = 250px></picture>
 <br><br>
 
 
-- :school: I am a `Student` at [Varendra University, Bangladesh](https://vu.edu.bd/).
+
+👨‍💻 With over 3 years of experience: * Developing and programming interfaces using JavaScript, Vue.JS, Bootstrap, and jQuery. * Server-side development using PHP and the Laravel framework, coupled with MySQL database.
+
+💡 I have a keen interest in front-end development using VueJS and UX/UI design.
+
+🚀 Striving to improve a little every day, aspiring to be better than yesterday. 
 - :eyes: I’m interested in programming...<br>
 - :computer: I am a competitive programmer at `CodeForces`,  `HackerRank`, `Codechef`, `beecrowd`.<br>
-- :student: I’m currently learning web development using `HTML`, `CSS` and `JavaScript`...<br>
+- :student: I’m currently learning web development using `react.js` , `Liveware`...<br>
 - :revolving_hearts: I’m looking to collaborate on software development using `C`/`C++`.... <br>
 
 
