@@ -21,11 +21,9 @@
 
 💡 I have a keen interest in front-end development using VueJS and UX/UI design.
 
-🚀 Striving to improve a little every day, aspiring to be better than yesterday. 
-- :eyes: I’m interested in programming...<br>
-- :computer: I am a competitive programmer at `CodeForces`,  `HackerRank`, `Codechef`, `beecrowd`.<br>
-- :student: I’m currently learning web development using `react.js` , `Liveware`...<br>
-- :revolving_hearts: I’m looking to collaborate on software development using `C`/`C++`.... <br>
+🚀 Striving to improve a little every day, aspiring to be better than yesterday.
+
+:student: I’m currently learning web development using `react.js` , `Liveware`...<br>
 
 
 <br>
