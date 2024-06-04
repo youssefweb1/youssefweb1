@@ -90,15 +90,10 @@
 
 ### 👉 Tools
 <p>
-  &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-E5E4E2?style=plastic&logo=stack-overflow&logoColor=orange"></a>
-  &emsp;
     <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
-  &emsp;
     <a href="#"><img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github"></a> 
-  &emsp;
-    <a href="#"><img alt="Windows" src="http://img.shields.io/badge/-Windows-0078D6?style=plastic&logo=windows&logoColor=ffffff"></a>
-  &emsp;
+
 </p>
 
 ### 👉 Competitive Programming & Problem Solving
