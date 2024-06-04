@@ -4,7 +4,7 @@
 
 <br>
 
-<h1>Web Developer | Full Stack Php @ Motiv-x </h1>
+<h3 align="center" color="green" >Web Developer | Full Stack Php @ Motiv-x </h3>
 <br> 
 <br>
 
