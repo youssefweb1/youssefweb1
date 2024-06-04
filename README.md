@@ -2,7 +2,7 @@
 
 
 <h3 align="center" color="green" >Web Developer | Full Stack Php @ Motiv-x </h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=MDShariarHossainSun&label=Profile%20views&color=1E90FF&style=plastic" alt="MDShariarHossainSun"/>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=MDShariarHossainSun&label=Profile%20views&color=fff&style=plastic" alt="MDShariarHossainSun"/>
 
 
 <img alt="Country" src="https://img.shields.io/badge/Lives-Egypt-%23FF0000.svg?style=plastic&color=1E90FF" />
