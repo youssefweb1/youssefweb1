@@ -2,10 +2,8 @@
 
 
 <h3 align="center" color="green" >Web Developer | Full Stack Php @ Motiv-x </h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=MDShariarHossainSun&label=Profile%20views&color=32CD32&style=plastic" alt="MDShariarHossainSun"/>
-<a href="https://github.com/MDShariarHossainSun" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MDShariarHossainSun?label=Github%20followers&style=plastic&color=32CD32">
-</a> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=MDShariarHossainSun&label=Profile%20views&color=1E90FF&style=plastic" alt="MDShariarHossainSun"/>
+
 
 <img alt="Country" src="https://img.shields.io/badge/Lives-Egypt-%23FF0000.svg?style=plastic&color=1E90FF" />
 <br>
