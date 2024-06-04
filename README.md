@@ -158,19 +158,17 @@
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-  	<a href="#" title="Website"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:mdshariarhossainsun01822@gmail.com" title="Gmail"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/MDShariarHossainSun" title="GitHub"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/md-shariar-hossain-sun-aa77621ab/" title="LinkedIn"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/sun01822/" title="Facebook"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="#" title="Instagram"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://www.youtube.com/channel/UCKDcAIXD1RwBoWnNwk6S4bg" title="Youtube"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
+	
+  	<a href="https://yooooussef.netlify.app/" title="Website"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	
+	<a href="mailto:youssefelsabbahy12@gmail.com" title="Gmail"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	
+	<a href="[https://github.com/MDShariarHossainSun](https://github.com/youssefweb1)" title="GitHub"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	
+	<a href="https://web.facebook.com/youssef.elsabbahy.9" title="Facebook"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/youssef_elsabbahy/" title="Instagram"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+
+ 
 </p>
 
 
-<br>
-<br>
-<hr>
-Credits: <a href="https://github.com/MDShariarHossainSun">MDShariarHossainSun</a>
-
-Date: 12/09/2022
