@@ -6,8 +6,8 @@
 <a href="https://github.com/MDShariarHossainSun" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/MDShariarHossainSun?label=Github%20followers&style=plastic&color=32CD32">
 </a> 
-<img alt="Age" src="https://img.shields.io/badge/Age-23-%23FF0000.svg?style=plastic&color=32CD32">
-<img alt="Country" src="https://img.shields.io/badge/Lives-Bangladesh-%23FF0000.svg?style=plastic&color=3EA055" />
+
+<img alt="Country" src="https://img.shields.io/badge/Lives-Egypt-%23FF0000.svg?style=plastic&color=1E90FF" />
 <br>
 </p>
 <br> 
