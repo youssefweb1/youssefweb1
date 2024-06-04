@@ -26,48 +26,6 @@
 🎓 I’m currently learning web development using `react.js` , `Liveware`...<br>
 
 
-<br>
-<br>
-<h2>👀 My CodeForces Stats</h2>
-
-![](https://raw.githubusercontent.com/MDShariarHossainSun/Codeforces-Stats/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/MDShariarHossainSun/Codeforces-Stats/main/output/light_card.svg)
-
-
-![](https://raw.githubusercontent.com/MDShariarHossainSun/Codeforces-Stats/main/output/max_rating.svg)
-![](https://raw.githubusercontent.com/MDShariarHossainSun/Codeforces-Stats/main/output/rating.svg)
-
-<!---
-MDShariarHossainSun/MDShariarHossainSun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<br>
-<br>
-
-<h2>👀 My github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px></h2> 
-
-<div>
-<!--   <p align="center">
-    <b><em>Now listening to:</em></b> <br/>
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=MDShariarHossainSun&cover_image=true&theme=novatorem" alt="Now Listenting to" />
-  </p> -->
-  
-  <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MDShariarHossainSun" alt="GitHub Stats" /> <br/><br/>
-  
-</div>
-
-![My github status](https://github-readme-stats.vercel.app/api?username=MDShariarHossainSun&show_icons=true&include_all_commits=true)  &emsp; &emsp;
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MDShariarHossainSun&theme=white-green)
-
-<br>
-<br>
-
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
-[![MDShariarHossainSun's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=MDShariarHossainSun&country_code=bangladesh&show_private=true)](https://github.com/Muhammadsher/github-readme-ranking)
-<br>
 
 
 <br>
