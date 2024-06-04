@@ -3,7 +3,6 @@
 
 <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=29E92D&center=true&vCenter=true&width=1200&height=100&lines=I+am+MD.+Shariar+Hossain+Sun;Computer+Science+Student;C+Programming+%7C+CPP+%7C+Java+%7C+PHP+%7C+JavaScript;DS%20|%20Algorithms%20|%20OOP%20;Always+Learning+New+Programming+Languages" alt="Typing SVG" /></a>
 
 <br> 
 <br>
