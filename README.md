@@ -73,48 +73,19 @@
 
 ### 👉 Software 
 <p>
- &emsp;
-    <a href="#"><img alt="Code Blocks" src="https://img.shields.io/badge/CodeBlocks-%23FF0000.svg?style=plastic&logo=codeblocks&logoColor=white"></a>
-  &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
     <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-5C5551.svg?style=plastic&logo=sublime-text&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
-  &emsp;
     <a href="#"><img alt="Atom" src="https://img.shields.io/badge/Apache%20Netbeans-%1B6AC6.svg?&style=plastic&logo=apache-netbeans&logoColor=white" /></a>
-  &emsp;
     <a href="#"><img alt="Xampp" src="https://img.shields.io/badge/Xampp-FE7A16?&style=plastic&logo=xampp&logoColor=white"></a>
-  &emsp;
 </p>
 
 ### 👉 Tools
 <p>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-E5E4E2?style=plastic&logo=stack-overflow&logoColor=orange"></a>
-    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
     <a href="#"><img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github"></a> 
 
 </p>
 
-### 👉 Competitive Programming & Problem Solving
-<p>
-  &emsp;
-    <a href="https://codeforces.com/profile/ShariarHossain"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
-  &emsp;
-    <a href="https://www.hackerrank.com/ShariarHossain"><img alt = "Hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
-  &emsp;
-    <a href="https://www.codechef.com/users/sun01822"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
-  &emsp;
-    <a href="https://vjudge.net/user/Sun01822"><img alt = "Virtual Judge" src="https://img.shields.io/badge/Virtual%20Judge-%23F7DF1E.svg?style=plastic&logo=vjudge&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
-  &emsp;
-    <a href="https://www.beecrowd.com.br/judge/en/profile/457135"><img alt = "Beecrowd" src="https://img.shields.io/badge/beecrowd-%23F2BB13.svg?&style=plastic&logo=beecrowd&logoColor=white" /></a>
-   &emsp;
-    <a href="https://onlinejudge.org/index.php?option=com_comprofiler&Itemid=3"><img alt = "UVA" src="https://img.shields.io/badge/UVa-%20FF69B4.svg?&style=plastic&logo=uva&logoColor=black" /></a>
-   &emsp;
-    <a href="https://toph.co/u/ShariarHossain"><img alt = "Toph" src="https://img.shields.io/badge/toph-%2300599C.svg?&style=plastic&logo=toph&logoColor=white" /></a>
-</p>
 
 <br>
 <br>
